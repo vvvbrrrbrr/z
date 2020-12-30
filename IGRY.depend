@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603720649 source:c:\users\lenovo\downloads\igry\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
